@@ -1,6 +1,6 @@
 import SelectablePage from "../pageObjects/selectable.page";
 
-describe("Selectable Grid", () => {
+describe("MD1 Selectable Grid", () => {
   beforeEach(() => {
     SelectablePage.visit(SelectablePage.url);
   });
